@@ -4,7 +4,7 @@
     "version": "2016-10-13T23:04:43Z",
     "title": "sks-apigee-s3-test"
   },
-  "host": "9gn28ca086.execute-api.us-east-1.amazonaws.com",
+  "host": "sks-presto-lab-data.us-east-2.amazonaws.com",
   "basePath": "/S3",
   "schemes": [
     "https"
